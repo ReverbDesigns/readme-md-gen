@@ -1,5 +1,5 @@
 
-# READMEGEN [License](https://img.shields.io/badge/license-Apache-success) !(https://img.shields.io/badge/README%20GEN-BCS-brightgreen)
+# READMEGEN License]
 Terminal generated README.MD from user's responses to a set of questions. Start the READMEGEN by typing > node index.js  <br>The user will be prompted for their GitHub username, which will be used to make a call to the GitHub API to retrieve their email and profile image. They will then be prompted with questions about their project.</p>
 
 ## Installation
