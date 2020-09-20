@@ -1,0 +1,15 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Generates markdown for Github readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordan Bell",
+  "license": "ISC",
+  "dependencies": {
+    "image-client-api": "^1.4041.0",
+    "inquirer": "^6.5.2"
+  }
+}
